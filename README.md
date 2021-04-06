@@ -1,1 +1,1 @@
-Reads Strava segments and allows the monitoring of movement of users on the leaderboard.
+Reads Strava segments and allows the monitoring of users movement on the leaderboard.
